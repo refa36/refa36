@@ -9,7 +9,7 @@ Languages: Python, Basic R, SQL
 
 Libraries & Tools: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Seaborn, Tensorflow
 
-Big Data & Cloud: Apache Spark
+Big Data : Apache Spark
 
 Data Visualization: Matplotlib
 
